@@ -96,9 +96,9 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🏥 Health Monitoring App](https://github.com/addy12bag/HEALTH-MONITORING-APP) | Full-stack health tracking application | MERN |
-| [🏠 Real Estate Website](https://github.com/addy12bag/RealStateWebsite-HTML-CSS-JAVASCRIPT-REACT) | Responsive real estate listing platform | React · HTML · CSS · JS |
-| [🍴 Forkify Wiki](https://github.com/addy12bag/ForkifyWIki-SCSS-HTML-JS) | Recipe search & bookmark app with async API integration | SCSS · HTML · JS |
-| [💰 Bankist](https://github.com/addy12bag/Bankist_HTML-CSS-JS) | Interactive banking UI with transfers, loans & account logic | HTML · CSS · JS |
+| [🏠 Real Estate Website](https://github.com/addy12bag/RealStateWebsite-HTML-CSS-JAVASCRIPT-REACT) | Responsive real estate listing platform | React · HTML · CSS · JS - MySQL - Nodejs |
+| [🍴 Forkify Wiki](https://github.com/addy12bag/ForkifyWIki-SCSS-HTML-JS) | Recipe search & bookmark app with async API integration | SCSS · HTML · JS - MySQL - Nodejs |
+| [💰 Bankist](https://github.com/addy12bag/Bankist_HTML-CSS-JS) | Interactive banking UI with transfers, loans & account logic | HTML · CSS · JS - PostgreSQL - Nodejs|
 | [🗺️ Mapty App](https://github.com/addy12bag/MaptyApp-JS) | Geolocation workout tracker with Leaflet.js maps | JavaScript · Leaflet |
 | [🌦️ Weather Web App](https://github.com/addy12bag/Weather-Web-APP-HTML-CSS-JS) | Real-time weather app using public APIs | HTML · CSS · JS |
 
