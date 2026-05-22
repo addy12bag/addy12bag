@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sayantan Bag</h1>
+<div align="center">
 
-<p align="center">
-  <b>M.Tech · Intelligent Automation & Robotics · Jadavpur University</b><br/>
-  <b>Full Stack Developer (MERN) &nbsp;|&nbsp; AI / ML Engineer</b><br/>
-  🚀 Building real-world AI-powered systems — not just demo projects
-</p>
+# Hi 👋, I'm Sayantan Bag
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayantan-bag-b1996b234/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://addy12bag.github.io/X-I-A-O/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:sayantanbag24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://x.com/sayantanbag022"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+**M.Tech · Intelligent Automation & Robotics · Jadavpur University**  
+**Full Stack Developer (MERN) &nbsp;|&nbsp; AI / ML Engineer**  
+🚀 Building real-world AI-powered systems — not just demo projects
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-bag-b1996b234/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://addy12bag.github.io/X-I-A-O/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanbag24@gmail.com)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sayantanbag022)
+
+</div>
 
 ---
 
@@ -39,7 +39,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 &nbsp;
@@ -84,7 +84,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🫁 Lung Disease Detection System](https://github.com/addy12bag) | Deep learning for chest X-ray + audio analysis · **96.7% image accuracy, 91% audio accuracy** · LLM-integrated clinical insights | Python · TensorFlow · Computer Vision |
+| [🫁 Lung Disease Detection System](https://github.com/addy12bag/Lung-Disease-Detection) | Deep learning for chest X-ray + audio analysis · **96.7% image accuracy, 91% audio accuracy** · LLM-integrated clinical insights | Python · TensorFlow · Computer Vision |
 | [❤️ Arrhythmia Disorder Prediction](https://github.com/addy12bag/Arrhythmia-Prediction-) | Hybrid ML–DL pipeline on MIT-BIH dataset · **97% ML accuracy, 93% CNN accuracy** · ECG preprocessing & feature engineering | PyTorch · Scikit-learn · Signal Processing |
 | [🌤️ Multi-Class Weather Classification CNN](https://github.com/addy12bag/Multi-Class-Weather-Classification_CNN) | CNN model in PyTorch achieving **~99% validation accuracy** across 4 weather classes · GPU-accelerated with data augmentation | Python · PyTorch · torchvision |
 | [📋 Smart Grievance Analyzer](https://github.com/addy12bag/Smart-Grievance-Analyzer-) | NLP-based Chrome Extension classifying citizen complaints with **97% accuracy** in real time | Python · Scikit-learn · Flask · JS |
@@ -95,10 +95,11 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [🤖 HireReady AI](https://github.com/addy12bag/HireReady-AI) | Multi-agent AI resume platform — parses resumes, scores ATS compatibility, generates tailored resumes (3 strategies), and provides grounded conversational feedback via a LangGraph pipeline | Python · FastAPI · LangGraph · HTMX · spaCy · Groq / Gemini · PostgreSQL · Docker |
 | [🏥 Health Monitoring App](https://github.com/addy12bag/HEALTH-MONITORING-APP) | Full-stack health tracking application | MERN |
-| [🏠 Real Estate Website](https://github.com/addy12bag/RealStateWebsite-HTML-CSS-JAVASCRIPT-REACT) | Responsive real estate listing platform | React · HTML · CSS · JS - MySQL - Nodejs |
-| [🍴 Forkify Wiki](https://github.com/addy12bag/ForkifyWIki-SCSS-HTML-JS) | Recipe search & bookmark app with async API integration | SCSS · HTML · JS - MySQL - Nodejs |
-| [💰 Bankist](https://github.com/addy12bag/Bankist_HTML-CSS-JS) | Interactive banking UI with transfers, loans & account logic | HTML · CSS · JS - PostgreSQL - Nodejs|
+| [🏠 Real Estate Website](https://github.com/addy12bag/RealStateWebsite-HTML-CSS-JAVASCRIPT-REACT) | Responsive real estate listing platform | React · HTML · CSS · JS · MySQL · Node.js |
+| [🍴 Forkify Wiki](https://github.com/addy12bag/ForkifyWIki-SCSS-HTML-JS) | Recipe search & bookmark app with async API integration | SCSS · HTML · JS · MySQL · Node.js |
+| [💰 Bankist](https://github.com/addy12bag/Bankist_HTML-CSS-JS) | Interactive banking UI with transfers, loans & account logic | HTML · CSS · JS · PostgreSQL · Node.js |
 | [🗺️ Mapty App](https://github.com/addy12bag/MaptyApp-JS) | Geolocation workout tracker with Leaflet.js maps | JavaScript · Leaflet |
 | [🌦️ Weather Web App](https://github.com/addy12bag/Weather-Web-APP-HTML-CSS-JS) | Real-time weather app using public APIs | HTML · CSS · JS |
 
@@ -114,32 +115,30 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=addy12bag&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addy12bag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy12bag&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![Streak Stats](https://streak-stats.demolab.com?user=addy12bag&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addy12bag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addy12bag&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayantan-bag-b1996b234/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://x.com/sayantanbag022">Twitter / X</a> &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/to_sayantan/">Instagram</a> &nbsp;•&nbsp;
-  <a href="https://codesandbox.io/u/Sayantan24">CodeSandbox</a> &nbsp;•&nbsp;
-  <a href="https://addy12bag.github.io/X-I-A-O/">Portfolio</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>📬 sayantanbag24@gmail.com &nbsp;|&nbsp; 📞 +91 7044787876</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/sayantan-bag-b1996b234/) &nbsp;•&nbsp;
+[Twitter / X](https://x.com/sayantanbag022) &nbsp;•&nbsp;
+[Instagram](https://www.instagram.com/to_sayantan/) &nbsp;•&nbsp;
+[CodeSandbox](https://codesandbox.io/u/Sayantan24) &nbsp;•&nbsp;
+[Portfolio](https://addy12bag.github.io/X-I-A-O/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=addy12bag&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+*📬 sayantanbag24@gmail.com &nbsp;|&nbsp; 📞 +91 7044787876*
+
+![Profile Views](https://komarev.com/ghpvc/?username=addy12bag&label=Profile+Views&color=0e75b6&style=flat)
+
+</div>
