@@ -117,11 +117,12 @@
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=addy12bag&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=addy12bag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=addy12bag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addy12bag&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=addy12bag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy12bag&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 
 </div>
 
