@@ -108,8 +108,11 @@
 ## 📜 Certifications
 
 - 🎓 **Machine Learning Specialization** — Coursera *(Feb – May 2024)*
+- 🌐 **Front-End Development** — Meta *(July 2024)*
 - 📊 **Complete Data Analyst Bootcamp** — Udemy *(Feb – May 2025)*
+- 🏢 **Technology Job Simulation** — Deloitte Australia · Forage *(Jun 2025)*
 - 👁️ **Computer Vision** — Infosys Springboard *(Jan – Feb 2026)*
+- 🤖 **Robotic Process Automation** — Infosys Springboard *(May 2026)*
 
 ---
 
